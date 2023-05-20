@@ -5,7 +5,7 @@ Testing teh webhook.....
 
 ## CICD Infra setup
 1) ###### GitHub setup
-    Fork GitHub Repository by using the existing repo "devops-fully-automated-infra" (https://github.com/cvamsikrishna11/devops-fully-automated-infra)     
+    Fork GitHub Repository by using the existing repo "devops-fully-automated-infra" (https://github.com/bankyp/devops-fully-automated-infra)     
     - Go to GitHub (github.com)
     - Login to your GitHub Account
     - **Fork repository "devops-fully-automated-infra" (https://github.com/cvamsikrishna11/devops-fully-automated-infra.git) & name it "devops-fully-automated-infra"**
