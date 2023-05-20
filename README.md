@@ -51,6 +51,7 @@ Testing teh webhook.....
 3)  #### Pipeline creation
     - Click on **New Item**
     - Enter an item name: **app-infra-pipeline** & select the category as **Pipeline**
+    - Select Ok
     - Now scroll-down and in the Pipeline section --> Definition --> Select Pipeline script from SCM
     - SCM: **Git**
     - Repositories
